@@ -1,376 +1,1212 @@
 [
   {
-    "id": 48,
-    "question": "Nền quốc phòng toàn dân là sức mạnh quốc phòng của đất nước được xây dựng trên nền tảng?",
+    "id": 111,
+    "question": "Một trong những vai trò của pháp luật về bảo đảm trật tự, an toàn giao thông là:",
     "options": {
-      "a": "Nhân lực, vật lực, tinh thần mang tính chất toàn dân, toàn diện, tự chủ, độc lập, tự cường.",
-      "b": "Nhân lực, tinh thần mang tính chất toàn dân, toàn diện, tự chủ, độc lập, tự lực, tự cường.",
-      "c": "Nhân lực, vật lực, mang tính chất toàn dân, toàn diện, tự chủ, độc lập, tự cường.",
-      "d": "Nhân lực, vật lực, tinh thần mang tính chất toàn dân, toàn diện, tự chủ, độc lập, tự lực, tự cường."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 49,
-    "question": "Theo quan điểm của Đảng và nhà nước, “an ninh nhân dân” là sự nghiệp của ai?",
-    "options": {
-      "a": "Của toàn dân, do nhân dân tiến hành, lực lượng an ninh nhân dân làm nòng cốt dưới sự lãnh đạo của Đảng và sự quản lí của Nhà nước.",
-      "b": "Của toàn quân, do công an tiến hành, lực lượng vũ trang làm nòng cốt dưới sự lãnh đạo của Đảng và sự quản lí của Nhà nước.",
-      "c": "Của toàn dân, do quân đội tiến hành, lực lượng vũ trang làm nòng cốt dưới sự lãnh đạo của Đảng và sự quản lí của Nhà nước.",
-      "d": "Của toàn quân, do công an tiến hành, lực lượng an ninh nhân dân làm nòng cốt dưới sự lãnh đạo của Đảng và sự quản lí của Nhà nước."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 50,
-    "question": "Xây dựng nền quốc phòng, an ninh nhân dân vững mạnh là tạo ra sức mạnh để?",
-    "options": {
-      "a": "Ngăn ngừa, đẩy lùi, đánh bại mọi âm mưu xâm hại đến mục tiêu trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "b": "Ngăn ngừa, đánh bại mọi âm mưu, hành động xâm hại đến mục tiêu trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "c": "Ngăn ngừa, đẩy lùi, đánh bại mọi âm mưu, hành động xâm hại đến mục tiêu trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "d": "Đánh bại mọi âm mưu, hành động xâm hại đến mục tiêu trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+      "a": "Quy định của Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông.",
+      "b": "Hoạt động của Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông.",
+      "c": "Ý chí của Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông.",
+      "d": "Hành động của Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự, an toàn giao thông."
     },
     "answer": "c"
   },
   {
-    "id": 51,
-    "question": "Trong vị trí của nền quốc phòng toàn dân, Đảng ta khẳng định:",
+    "id": 112,
+    "question": "Các dấu hiệu pháp lý của tội phạm an toàn giao thông là:",
     "options": {
-      "a": "Trong khi đặt trọng tâm vào nhiệm vụ bảo vệ Tổ quốc, luôn luôn coi trọng tư tưởng - chính trị - xã hội, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ.",
-      "b": "Trong khi đặt trọng tâm vào nhiệm vụ bảo vệ Tổ quốc, luôn luôn coi trọng văn hóa - xã hội, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ.",
-      "c": "Trong khi đặt trọng tâm vào nhiệm vụ bảo vệ Tổ quốc, luôn luôn coi trọng ngoại giao, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ.",
-      "d": "Trong khi đặt trọng tâm vào nhiệm vụ xây dựng chủ nghĩa xã hội, chúng ta không một chút lơi lỏng nhiệm vụ bảo vệ Tổ quốc, luôn luôn coi trọng quốc phòng, an ninh, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ."
+      "a": "Khách thể; mặt khách quan; chủ thể; mặt chủ quan.",
+      "b": "Khách thể; khách quan; chủ thể; mặt chủ quan.",
+      "c": "Khách thể; khách quan; mặt chủ thể; mặt chủ quan.",
+      "d": "Khách thể; mặt khách quan; mặt chủ thể; chủ quan."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 113,
+    "question": "Một trong những nội dung, biện pháp phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
+    "options": {
+      "a": "Tuyên truyền, giáo dục pháp luật về bảo đảm trật tự, an toàn giao thông để nâng cao ý thức chấp hành pháp luật về bảo đảm trật tự, an toàn giao thông cho người dân.",
+      "b": "Tuyên truyền, phổ biến về bảo đảm trật tự, an toàn giao thông để nâng cao ý thức chấp hành pháp luật về bảo đảm trật tự, an toàn giao thông cho người dân.",
+      "c": "Phổ biến, giáo dục pháp luật về bảo đảm trật tự, an toàn giao thông để nâng cao ý thức chấp hành pháp luật về bảo đảm trật tự, an toàn giao thông cho người dân.",
+      "d": "Tuyên truyền, phổ biến, giáo dục pháp luật về bảo đảm trật tự, an toàn giao thông để nâng cao ý thức chấp hành pháp luật về bảo đảm trật tự, an toàn giao thông cho người dân."
     },
     "answer": "d"
   },
   {
-    "id": 52,
-    "question": "Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân của ta:",
+    "id": 114,
+    "question": "Điền từ còn thiếu vào câu sau: Vi phạm hành chính xảy ra trong lĩnh vực bảo đảm trật tự, an toàn giao thông là hành vi có lỗi do …….., …….. thực hiện, vi phạm quy định của pháp luật về bảo đảm trật tự, an toàn giao thông mà không phải là tội phạm và theo quy định của pháp luật phải bị xử phạt vi phạm hành chính.",
     "options": {
-      "a": "Nền quốc phòng, an ninh có sức mạnh của quân đội tạo thành.",
-      "b": "Nền quốc phòng, an ninh có sức mạnh tổng hợp do nhiều yếu tố tạo thành.",
-      "c": "Nền quốc phòng, an ninh có sức mạnh của dân tạo thành.",
-      "d": "Nền quốc phòng, an ninh có sức mạnh của công an tạo thành."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 53,
-    "question": "Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân của ta:",
-    "options": {
-      "a": "Nền quốc phòng, an ninh vì dân, của dân và do quân đội nhân dân tiến hành.",
-      "b": "Nền quốc phòng, an ninh vì dân, của dân và do công an nhân dân tiến hành.",
-      "c": "Nền quốc phòng, an ninh vì dân, của dân và do toàn thể nhân dân tiến hành.",
-      "d": "Nền quốc phòng, an ninh vì dân, của dân và do dân quân tự vệ tiến hành."
+      "a": "cá nhân, hộ gia đình",
+      "b": "cá nhân, tập thể",
+      "c": "cá nhân, tổ chức",
+      "d": "cá nhân, cộng đồng"
     },
     "answer": "c"
   },
   {
-    "id": 54,
-    "question": "Đặc trưng của nền quốc phòng toàn dân gắn chặt với nền an ninh nhân dân của chúng ta đều được xây dựng nhằm mục đích?",
+    "id": 115,
+    "question": "Một trong những nội dung, biện pháp phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là:",
     "options": {
-      "a": "Đấu tranh, đều phải chống thù trong, giặc ngoài để bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "b": "Đấu tranh, phải chống giặc ngoại xâm để bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "c": "Tự vệ, phải chống giặc ngoại xâm để bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "d": "Tự vệ, đều phải chống thù trong, giặc ngoài để bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+      "a": "Tham mưu, đề xuất với Nhà nước xây dựng và hoàn thiện hệ thống các văn bản pháp luật phục vụ phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông.",
+      "b": "Tham mưu, đề xuất với Cảnh sát giao thông xây dựng và hoàn thiện hệ thống các văn bản pháp luật phục vụ phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông.",
+      "c": "Tham mưu, đề xuất với Mặt trận Tổ quốc xây dựng và hoàn thiện hệ thống các văn bản pháp luật phục vụ phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông.",
+      "d": "Tham mưu, đề xuất với Nhân dân xây dựng và hoàn thiện hệ thống các văn bản pháp luật phục vụ phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 116,
+    "question": "Điền từ còn thiếu vào câu sau: “Đấu tranh chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là ………. của các cơ quan quản lý nhà nước có thẩm quyền căn cứ vào các quy định của pháp luật, tiến hành tổng hợp các biện pháp theo quy định để chủ động nắm tình hình, phát hiện những hành vi vi phạm pháp luật…”.",
+    "options": {
+      "a": "hành động",
+      "b": "kế hoạch",
+      "c": "chủ trương",
+      "d": "hoạt động"
     },
     "answer": "d"
   },
   {
-    "id": 55,
-    "question": "Mục đích xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là:",
+    "id": 117,
+    "question": "Nghị định 168/2024/NĐ-CP của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ. Người đang điều khiển xe mô tô, xe gắn máy sử dụng thiết bị âm thanh, trừ thiết bị trợ thính, bị phạt:",
     "options": {
-      "a": "Tạo sức mạnh tổng hợp của đất nước ta; Tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-      "b": "Tạo sức mạnh về quân sự của đất nước ta; Tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-      "c": "Tạo sức mạnh phát triển kinh tế - xã hội của đất nước ta; Tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc.",
-      "d": "Tạo sức mạnh phát triển kinh tế - xã hội, khoa học và công nghệ của đất nước ta; Tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc."
+      "a": "Từ 400.000 đến 600.000 đồng.",
+      "b": "Từ 600.000 đến 800.000 đồng.",
+      "c": "Từ 800.000 đến 1.000.000 đồng.",
+      "d": "Từ 1.000.000 đến 2.000.000 đồng."
     },
-    "answer": "a"
+    "answer": "c"
   },
   {
-    "id": 56,
-    "question": "Một trong những nhiệm vụ xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là:",
+    "id": 118,
+    "question": "Nghị định 168/2024/NĐ-CP của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ. Người điều khiển xe mô tô, xe gắn máy lạng lách, đánh võng trên đường bộ có thể bị phạt:",
     "options": {
-      "a": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ các mục tiêu.",
-      "b": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ các cụm kinh tế.",
-      "c": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ các vùng biên giới.",
-      "d": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa."
+      "a": "Từ 2.000.000 đến 4.000.000 đồng.",
+      "b": "Từ 4.000.000 đến 6.000.000 đồng.",
+      "c": "Từ 6.000.000 đến 8.000.000 đồng.",
+      "d": "Từ 8.000.000 đến 10.000.000 đồng."
     },
     "answer": "d"
   },
   {
-    "id": 57,
-    "question": "Tiềm lực quốc phòng, an ninh là:",
+    "id": 119,
+    "question": "Nghị định 168/2024/NĐ-CP của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ. Người điều khiển xe mô tô, xe gắn máy có nồng độ cồn chưa vượt quá 50 mg/100 ml máu hoặc chưa vượt quá 0,25 mg/lít khí thở bị phạt tiền:",
     "options": {
-      "a": "Khả năng về nhân lực, vật lực có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh.",
-      "b": "Khả năng về nhân lực, tài chính có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh.",
-      "c": "Khả năng về nhân lực, vật lực, tài chính có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh.",
-      "d": "Khả năng về nhân lực, phương tiện kỹ thuật có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 58,
-    "question": "Tiềm lực quốc phòng, an ninh được thể hiện trên tất cả các lĩnh vực của đời sống xã hội, nhưng tập trung ở những tiềm lực?",
-    "options": {
-      "a": "Tiềm lực chính trị, tinh thần; tiềm lực văn hóa; tiềm lực khoa học, công nghệ; tiềm lực quân sự, an ninh.",
-      "b": "Tiềm lực chính trị, tinh thần; tiềm lực giáo dục; tiềm lực khoa học, công nghệ; tiềm lực quân sự, an ninh.",
-      "c": "Tiềm lực chính trị, văn hóa; tiềm lực giáo dục; tiềm lực khoa học, công nghệ; tiềm lực quân sự, an ninh.",
-      "d": "Tiềm lực chính trị, tinh thần; tiềm lực kinh tế; tiềm lực khoa học, công nghệ; tiềm lực quân sự, an ninh."
+      "a": "Từ 1.000.000 đến 2.000.000 đồng.",
+      "b": "Từ 2.000.000 đến 3.000.000 đồng.",
+      "c": "Từ 3.000.000 đến 5.000.000 đồng.",
+      "d": "Từ 6.000.000 đến 8.000.000 đồng."
     },
     "answer": "d"
   },
   {
-    "id": 59,
-    "question": "Yếu tố nào sau đây không thuộc các tiềm lực của nền quốc phòng, an ninh?",
+    "id": 120,
+    "question": "Nghị định 168/2024/NĐ-CP của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ. Người điều khiển xe mô tô, xe gắn máy không chấp hành hiệu lệnh của đèn tín hiệu giao thông có thể bị phạt:",
     "options": {
-      "a": "Tiềm lực chính trị, tinh thần.",
-      "b": "Tiềm lực vật chất, tinh thần.",
-      "c": "Tiềm lực ngoại giao.",
-      "d": "Tiềm lực khoa học, công nghệ."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 60,
-    "question": "Một trong những nội dung xây lực tiềm lực quốc phòng, an ninh ngày càng vững mạnh là:",
-    "options": {
-      "a": "Xây dựng tiềm lực chính trị, tinh thần.",
-      "b": "Xây dựng tiềm lực chính trị, văn hóa - xã hội, tinh thần.",
-      "c": "Xây dựng tiềm lực chính trị, tinh thần, an ninh, đối ngoại.",
-      "d": "Xây dựng tiềm lực chính trị, tinh thần, văn hóa, giáo dục."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 61,
-    "question": "Xây dựng tiềm lực quân sự, an ninh của nền quốc phòng toàn dân, an ninh nhân dân là:",
-    "options": {
-      "a": "Khả năng về vật chất, vật lực và tinh thần có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh.",
-      "b": "Khả năng về vật chất và tinh thần có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh.",
-      "c": "Khả năng về vũ khí, phương tiện kỹ thuật có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh.",
-      "d": "Khả năng về tư tưởng và tinh thần có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 62,
-    "question": "Thế trận quốc phòng, an ninh là:",
-    "options": {
-      "a": "Sự tổ chức, bố trí lực lượng, tiềm lực quân sự của đất nước và của toàn dân trên toàn bộ lãnh thổ theo yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "b": "Sự tổ chức, bố trí lực lượng, vũ khí, phương tiện kỹ thuật của đất nước và của toàn dân trên toàn bộ lãnh thổ theo yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "c": "Sự tổ chức, bố trí lực lượng, tiềm lực mọi mặt của đất nước và của toàn dân trên toàn bộ lãnh thổ theo yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "d": "Sự tổ chức, bố trí lực lượng, tiềm lực kinh tế, đối ngoại của đất nước và của toàn dân trên toàn bộ lãnh thổ theo yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 63,
-    "question": "Nội dung xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân gồm:",
-    "options": {
-      "a": "Phân vùng chiến lược về chính trị kết hợp với vùng kinh tế trên cơ sở quy hoạch các vùng dân cư theo nguyên tắc bảo vệ đi đôi với xây dựng đất nước.",
-      "b": "Phân vùng chiến lược về quốc phòng, an ninh kết hợp với vùng kinh tế trên cơ sở quy hoạch các vùng dân cư theo nguyên tắc bảo vệ đi đôi với xây dựng đất nước.",
-      "c": "Phân vùng chiến lược về quân sự kết hợp với vùng kinh tế trên cơ sở quy hoạch các vùng dân cư theo nguyên tắc bảo vệ đi đôi với xây dựng đất nước.",
-      "d": "Phân vùng chiến lược về quốc phòng, an ninh kết hợp với vùng kinh tế trên cơ sở quy hoạch các vùng kinh tế theo nguyên tắc bảo vệ đi đôi với xây dựng đất nước."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 64,
-    "question": "Đặc trưng “vì dân, của dân, do dân” của nền quốc phòng, an ninh nước ta là:",
-    "options": {
-      "a": "Thể hiện truyền thống của dân tộc ta trong lịch sử dựng nước và giữ nước.",
-      "b": "Thể hiện truyền thống, kinh nghiệm của các nước trên thế giới.",
-      "c": "Thể hiện kinh nghiệm của dân tộc ta trong lịch sử dựng nước và giữ nước.",
-      "d": "Thể hiện truyền thống, kinh nghiệm của dân tộc ta trong lịch sử dựng nước và giữ nước."
+      "a": "Từ 400.000 đến 600.000 đồng.",
+      "b": "Từ 600.000 đến 800.000 đồng.",
+      "c": "Từ 2.000.000 đến 4.000.000 đồng.",
+      "d": "Từ 4.000.000 đến 6.000.000 đồng."
     },
     "answer": "d"
   },
   {
-    "id": 65,
-    "question": "Sức mạnh tổng hợp của nền quốc phòng, an ninh nước ta tạo thành bởi những yếu tố nào?",
+    "id": 121,
+    "question": "Nghị định 168/2024/NĐ-CP của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ. Người điều khiển xe mô tô, xe gắn máy chở từ 03 người trở lên trên xe có thể bị phạt:",
     "options": {
-      "a": "Chính trị, kinh tế, văn hoá, tư tưởng, khoa học, quân sự, an ninh.",
-      "b": "Chính trị, kinh tế, tư tưởng, khoa học, quân sự, an ninh.",
-      "c": "Chính trị, kinh tế, văn hoá, khoa học, quân sự, an ninh.",
-      "d": "Chính trị, kinh tế, văn hoá, tư tưởng, khoa học, quân sự."
+      "a": "Từ 400.000 đến 600.000 đồng.",
+      "b": "Từ 600.000 đến 800.000 đồng.",
+      "c": "Từ 800.000 đến 1.000.000 đồng.",
+      "d": "Từ 1.000.000 đến 2.000.000 đồng."
     },
-    "answer": "a"
+    "answer": "b"
   },
   {
-    "id": 66,
-    "question": "Một trong những nội dung của đặc trưng nền quốc phòng toàn dân, an ninh nhân dân được xây dựng toàn diện và hiện đại là:",
+    "id": 122,
+    "question": "Nghị định 168/2024/NĐ-CP của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ. Người điều khiển xe mô tô, xe gắn máy không đội mũ bảo hiểm hoặc đội mũ nhưng không cài quai đúng quy cách bị phạt ở mức:",
     "options": {
-      "a": "Xây dựng đội ngũ tri thức từng bước hiện đại.",
-      "b": "Xây dựng và phát triển nền công nghiệp từng bước hiện đại.",
-      "c": "Xây dựng quân đội nhân dân, công an nhân dân hiện đại.",
-      "d": "Xây dựng và phát triển nền nông nghiệp từng bước hiện đại."
-    },
-    "answer": "c"
-  },
-  {
-    "id": 67,
-    "question": "Một trong những nhiệm vụ xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là:",
-    "options": {
-      "a": "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa.",
-      "b": "Xây dựng nền nông nghiệp, công nghiệp theo hướng hiện đại. Lấy công nghiệp nặng làm then chốt.",
-      "c": "Xây dựng nền công nghiệp quốc phòng, an ninh vững mạnh.",
-      "d": "Xây dựng và đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 68,
-    "question": "Lực lượng vũ trang nhân dân hiện nay bao gồm những lực lượng nào?",
-    "options": {
-      "a": "Bộ đội chủ lực, bộ đội địa phương, dân quân tự vệ.",
-      "b": "Bộ đội địa phương, dân quân tự vệ, dân phòng.",
-      "c": "Quân đội nhân dân, dân quân tự vệ, công an nhân dân.",
-      "d": "Quân đội nhân dân, dân quân tự vệ, dân phòng"
-    },
-    "answer": "c"
-  },
-  {
-    "id": 69,
-    "question": "Xây dựng nền quốc phòng toàn dân, an ninh nhân dân là trách nhiệm của:",
-    "options": {
-      "a": "Toàn dân.",
-      "b": "Quân đội.",
-      "c": "Công an.",
-      "d": "Quân đội, Công an."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 70,
-    "question": "Tiềm lực quân sự, an ninh được biểu hiện ở:",
-    "options": {
-      "a": "Khả năng sử dụng vũ khí, phương tiện kỹ thuật trong suốt quá trình đấu tranh bảo vệ Tổ quốc.",
-      "b": "Khả năng sử dụng vũ khí, phương tiện kỹ thuật, vận dụng các hình thức đánh địch trong tiến công và phòng ngự.",
-      "c": "Khả năng sẵn sàng chiến đấu, năng lực và tăng cường sức mạnh chiến đấu.",
-      "d": "Khả năng duy trì và không ngừng phát triển trình độ sẵn sàng chiến đấu, năng lực và sức mạnh chiến đấu của các lực lượng vũ trang nhân dân."
+      "a": "Từ 100.000 đến 200.000 đồng.",
+      "b": "Từ 200.000 đến 300.000 đồng.",
+      "c": "Từ 300.000 đến 400.000 đồng.",
+      "d": "Từ 400.000 đến 600.000 đồng."
     },
     "answer": "d"
   },
   {
-    "id": 71,
-    "question": "Quốc phòng toàn dân là nền quốc phòng mang tính chất:",
+    "id": 123,
+    "question": "Nhân phẩm là:",
     "options": {
-      "a": "“vì dân, do dân, của dân”.",
-      "b": "“vì dân, do dân”.",
-      "c": "“do dân, của dân”.",
-      "d": "“vì dân, của dân”."
+      "a": "Phẩm chất, giá trị của một con người cụ thể và được pháp luật bảo vệ.",
+      "b": "Phẩm chất của một con người cụ thể và được pháp luật bảo vệ.",
+      "c": "Phẩm chất của mọi người và được pháp luật bảo vệ.",
+      "d": "Giá trị của một con người cụ thể và được pháp luật bảo vệ."
     },
     "answer": "a"
   },
   {
-    "id": 72,
-    "question": "Trong các tiềm lực quốc phòng, an ninh của nước ta thì tiềm lực nào là nhân tố cơ bản tạo nên sức mạnh của quốc phòng, an ninh, có tác động to lớn đến hiệu quả xây dựng và sử dụng các tiềm lực khác?",
+    "id": 124,
+    "question": "Điền vào chỗ trống sao cho phù hợp với khái niệm: “Danh dự là sự coi trọng của dư luận xã hội, dựa trên giá trị ……….., đạo đức tốt đẹp và là cái nhằm mang lại danh dự, nhằm tỏ rõ sự kính trọng của xã hội, của tập thể”.",
     "options": {
-      "a": "Tiềm lực chính trị, tinh thần.",
-      "b": "Tiềm lực kinh tế.",
-      "c": "Tiềm lực khoa học công nghệ.",
-      "d": "Tiềm lực quân sự, an ninh."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 73,
-    "question": "Xây dựng tiềm lực khoa học công nghệ của nền quốc phòng toàn dân, an ninh nhân dân là:",
-    "options": {
-      "a": "Tạo nên khả năng huy động đội ngũ cán bộ phục vụ quốc phòng, an ninh.",
-      "b": "Tạo nên khả năng ứng dụng kết quả nghiên cứu khoa học công nghệ vào quốc phòng, an ninh.",
-      "c": "Tạo nên khả năng về khoa học, công nghệ của quốc gia có thể khai thác, huy động phục vụ cho quốc phòng, an ninh",
-      "d": "Tạo nên khả năng về vũ khí trang bị để phòng thủ đất nước."
+      "a": "“lý tưởng”.",
+      "b": "“vật chất”.",
+      "c": "“tinh thần”.",
+      "d": "“niềm tin”."
     },
     "answer": "c"
   },
   {
-    "id": 74,
-    "question": "Một trong những nội dung xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân vững chắc là:",
+    "id": 125,
+    "question": "Có bao nhiêu loại tội phạm xúc phạm đến danh dự nhân phẩm của người khác?",
     "options": {
-      "a": "Xây dựng hậu phương, tạo chỗ dựa vững chắc cho thế trận quốc phòng, an ninh.",
-      "b": "Xây dựng khối đại đoàn kết quân dân để bảo đảm công tác quốc phòng, an ninh.",
-      "c": "Xây dựng các vùng kinh tế phát triển.",
-      "d": "Xây dựng các tổ chức xã hội với phát triển kinh tế."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 75,
-    "question": "Bổ sung cụm từ phù hợp nhất cho câu sau: “Xây dựng lực lượng quốc phòng, an ninh là …………. đáp ứng yêu cầu của quốc phòng, an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.”",
-    "options": {
-      "a": "“xây dựng lực lượng chính trị và các tổ chức xã hội”.",
-      "b": "“xây dựng lực lượng chính trị và lực lượng vũ trang nhân dân”.",
-      "c": "“xây dựng các tổ chức xã hội và lực lượng vũ trang nhân dân”.",
-      "d": "“xây dựng các tổ chức xã hội với xây dựng hậu phương vững chắc”."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 76,
-    "question": "Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân của ta là:",
-    "options": {
-      "a": "Nền quốc phòng toàn dân, an ninh nhân dân được xây dựng cho những vùng kinh tế trọng điểm và từng bước hiện đại.",
-      "b": "Nền quốc phòng toàn dân, an ninh nhân dân được xây dựng toàn diện và hiện đại.",
-      "c": "Nền quốc phòng toàn dân, an ninh nhân dân được xây dựng vững chắc các tuyến biên giới và từng bước hiện đại.",
-      "d": "Nền quốc phòng toàn dân, an ninh nhân dân được xây dựng và phát triển các vùng biên giới trọng điểm."
-    },
-    "answer": "b"
-  },
-  {
-    "id": 77,
-    "question": "Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân của ta là:",
-    "options": {
-      "a": "Nền quốc phòng toàn dân gắn chặt với phát triển kinh tế.",
-      "b": "Nền quốc phòng toàn dân gắn chặt với phát triển vũ khí trang bị.",
-      "c": "Nền quốc phòng toàn dân gắn chặt với nền an ninh nhân dân.",
-      "d": "Nền quốc phòng toàn dân gắn chặt với phát triển giáo dục."
+      "a": "2 loại.",
+      "b": "3 loại.",
+      "c": "4 loại.",
+      "d": "5 loại."
     },
     "answer": "c"
   },
   {
-    "id": 78,
-    "question": "Bổ sung cụm từ phù hợp nhất cho khái niệm tiềm lực kinh tế: “Tiềm lực kinh tế của nền quốc phòng toàn dân, an ninh nhân dân là khả năng về kinh tế của đất nước có thể …(1).., …(2)… nhằm phục vụ cho quốc phòng, an ninh.”",
+    "id": 126,
+    "question": "Công cụ hữu hiệu nhất để bảo vệ quyền con người là:",
     "options": {
-      "a": "(1) khai thác, (2) huy động.",
-      "b": "(1) quản lý, (2) điều hành.",
-      "c": "(1) tổ chức, (2) điều hành.",
-      "d": "(1) quản lý, (2) huy động."
-    },
-    "answer": "a"
-  },
-  {
-    "id": 79,
-    "question": "Bổ sung cụm từ phù hợp nhất cho khái niệm tiềm lực quân sự: “Tiềm lực quân sự, an ninh của nền quốc phòng toàn dân, an ninh nhân dân là khả năng về …….. có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, cho chiến tranh.”",
-    "options": {
-      "a": "“vũ khí và phương tiện kỹ thuật”.",
-      "b": "“vật chất và tinh thần”.",
-      "c": "“vật lực và tinh thần”.",
-      "d": "“vũ lực và phương tiện kỹ thuật”."
+      "a": "Hệ thống chính trị.",
+      "b": "Hệ thống pháp luật.",
+      "c": "Các tổ chức xã hội.",
+      "d": "Chuẩn mực đạo đức."
     },
     "answer": "b"
   },
   {
-    "id": 80,
-    "question": "Một trong những nội dung cần tập trung xây dựng tiềm lực chính trị, tinh thần của nền quốc phòng toàn dân, an ninh nhân dân là:",
+    "id": 127,
+    "question": "Việc áp dụng các biện pháp mang tính chuyên môn, nghiệp vụ của từng ngành, từng lực lượng, trong đó Công an nhân dân giữ vai trò nòng cốt, được xác định là:",
     "options": {
-      "a": "Xây dựng tình yêu quê hương, đất nước, niềm tin đối với sự lãnh đạo của Đảng, quản lí của Nhà nước, đối với chế độ xã hội chủ nghĩa.",
-      "b": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước, xây dựng nền kinh tế độc lập, tự chủ. Kết hợp chặt chẽ phát triển kinh tế - xã hội với tăng cường quốc phòng, an ninh.",
-      "c": "Xây dựng số lượng, chất lượng đội ngũ cán bộ kĩ thuật, cơ sở vật chất kĩ thuật có thể huy động phục vụ cho quốc phòng, an ninh.",
-      "d": "Xây dựng lực lượng vũ trang nhân dân vững mạnh toàn diện, gắn quá trình công nghiệp hóa, hiện đại hóa đất nước với quá trình tăng cường vũ khí trang bị cho các lực lượng vũ trang nhân dân, xây dựng đội ngũ cán bộ trong lực lượng vũ trang nhân dân đáp ứng yêu cầu bảo vệ Tổ quốc trong tình hình mới"
+      "a": "Phòng ngừa xã hội.",
+      "b": "Phòng ngừa tình huống.",
+      "c": "Phòng ngừa chung.",
+      "d": "Phòng ngừa riêng."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 128,
+    "question": "“Mọi người có quyền bất khả xâm phạm về thân thể, được pháp luật bảo hộ về sức khỏe, danh dự và nhân phẩm; không bị tra tấn, bạo lực, truy bức, nhục hình hay bất kỳ hình thức đối xử nào khác xâm phạm thân thể, sức khoẻ, xúc phạm danh dự, nhân phẩm”. Được quy định tại:",
+    "options": {
+      "a": "Điều 19 Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013.",
+      "b": "Điều 20 Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013.",
+      "c": "Điều 21 Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013.",
+      "d": "Điều 22 Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 2013."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 129,
+    "question": "Hành vi xâm phạm nhân phẩm, danh dự của con người là:",
+    "options": {
+      "a": "Làm cho người đó được coi trọng, tín nhiệm trong gia đình và xã hội.",
+      "b": "Làm cho người đó ít được coi trọng, tín nhiệm trong gia đình và xã hội.",
+      "c": "Làm cho người đó bị xúc phạm, coi thường, khinh rẻ trong gia đình và xã hội.",
+      "d": "Làm cho người đó thường chỉ bị xúc phạm, coi thường trong phạm vi cơ quan."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 130,
+    "question": "Phòng ngừa tội phạm xâm phạm danh dự nhân phẩm của con người là việc của:",
+    "options": {
+      "a": "Cơ quan nhà nước, các tổ chức tôn giáo, tín ngưỡng.",
+      "b": "Cơ quan nhà nước, các tổ chức xã hội và công dân.",
+      "c": "Cơ quan công quyền, các tổ chức tôn giáo.",
+      "d": "Cơ quan nhà nước, các tổ chức xã hội."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 131,
+    "question": "Hành vi nào dưới đây không phải là hành vi xúc phạm đến danh dự nhân phẩm người khác?",
+    "options": {
+      "a": "Dùng hành động làm tổn hại đến đến thể chất và tinh thần của người khác.",
+      "b": "Dùng những lời lẽ hoặc hành động có tính chất thóa mạ, khinh bỉ để làm nhục người khác.",
+      "c": "Gán một sự kiện xấu xa cho người khác làm cho xã hội đánh giá sai hoặc hình dung sai về người đó.",
+      "d": "Thấy người khác gặp khó khăn nhưng cố tình không giúp đỡ họ làm cho họ buồn bã."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 132,
+    "question": "Chủ thể của các tội xâm phạm danh dự, nhân phẩm của con người là:",
+    "options": {
+      "a": "Người có năng lực trách nhiệm hình sự và đạt độ tuổi nhất định theo quy định của pháp luật.",
+      "b": "Mọi cá nhân không phân biệt độ tuổi.",
+      "c": "Chỉ người có chức vụ, quyền hạn.",
+      "d": "Chỉ người từ đủ 18 tuổi trở lên."
     },
     "answer": "a"
   },
   {
-    "id": 81,
-    "question": "Xây dựng tiềm lực kinh tế của nền quốc phòng toàn dân, an ninh nhân dân, cần tập trung vào nội dung nào?",
+    "id": 133,
+    "question": "Theo Bộ Luật hình sự 2017 sửa đổi, bổ sung một số điều của Bộ Luật hình sự số 100/2015/QH13, quy định độ tuổi chịu trách nhiệm hình sự:",
     "options": {
-      "a": "Phát triển toàn diện các ngành, các lĩnh vực kinh tế.",
-      "b": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước, xây dựng nền kinh tế độc lập, tự chủ.",
-      "c": "Không ngừng cải thiện đời sống vật chất, tinh thần cho các lực lượng vũ trang.",
-      "d": "Có kế hoạch chuyển sản xuất từ thời bình sang thời chiến."
+      "a": "Người đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự và người chưa đủ 14 tuổi không chịu trách nhiệm hình sự.",
+      "b": "Người đủ 14 đến 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm.",
+      "c": "Người từ đủ 14 tuổi trở lên, nhưng chưa đủ 16 tuổi phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng và tội phạm đặc biệt nghiêm trọng.",
+      "d": "Người đủ 16 tuổi trở lên phải chịu trách nhiệm hình sự về mọi tội phạm, ngoài ra người từ đủ 15 đến 16 tuổi phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 134,
+    "question": "Theo quy định pháp luật Hình sự Việt Nam hiện nay, các tội xâm phạm danh dự nhân phẩm của con người gồm:",
+    "options": {
+      "a": "Các tội xâm phạm tình dục, các tội mua bán người và tội buôn lậu.",
+      "b": "Các tội xâm phạm tình dục, các tội mua bán người và các tội cướp đoạt tài sản.",
+      "c": "Các tội xâm phạm tình dục, các tội mua bán người và các tội làm nhục người khác.",
+      "d": "Các tội xâm phạm tình dục, các tội mua bán người và các tội làm nhục người khác, nhóm tội khác."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 135,
+    "question": "Nhóm các tội phạm làm nhục người khác gồm:",
+    "options": {
+      "a": "Tội làm nhục người khác; Tội vu khống; Tội hành hạ người khác.",
+      "b": "Tội làm nhục người khác; Tội vu khống; Tội chống đối.",
+      "c": "Tội làm nhục người khác; Tội đánh tráo người dưới 1 tuổi; Tội hành hạ người khác.",
+      "d": "Tội cưởng dâm; Tội vu khống; Tội hành hạ người khác."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 136,
+    "question": "Theo Điều 141 đến Điều 147, Bộ Luật hình sự năm 2015 (sửa đổi, bổ sung năm 2017). Nhóm tội xâm phạm tình dục có bao nhiêu tội danh",
+    "options": {
+      "a": "5 tội danh.",
+      "b": "6 tội danh.",
+      "c": "7 tội danh.",
+      "d": "8 tội danh."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 137,
+    "question": "Lực lượng trực tiếp tổ chức, triển khai các hoạt động về phòng, chống tội phạm xâm phạm nhân phẩm, danh dự của con người là?",
+    "options": {
+      "a": "Quân đội nhân dân.",
+      "b": "Bộ đội biên phòng.",
+      "c": "Lực lượng Hải quân.",
+      "d": "Công an nhân dân."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 138,
+    "question": "Trường hợp nào sau đây là tình tiết định khung tăng nặng của Tội lây truyền HIV cho người khác?",
+    "options": {
+      "a": "Đối với người đủ 18 tuổi.",
+      "b": "Đối với người quen biết.",
+      "c": "Đối với phụ nữ mà biết là có thai.",
+      "d": "Đối với người có tài sản lớn."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 139,
+    "question": "Theo Bộ Luật hình sự năm 2015 (sửa đổi, bổ sung năm 2017). Nhóm các tội phạm mua bán người gồm các tội nào?",
+    "options": {
+      "a": "Tội mua bán người; Tội mua bán người dưới 16 tuổi; Tội đánh tráo người dưới 1 tuổi; Tội chiếm đoạt người dưới 16 tuổi; Tội mua bán, tội dâm ô.",
+      "b": "Tội mua bán người; Tội mua bán người dưới 16 tuổi; Tội đánh tráo người dưới 1 tuổi; Tội chiếm đoạt người dưới 16 tuổi; Tội mua bán, chiếm đoạt mô hoặc bộ phận cơ thể người.",
+      "c": "Tội mua bán người; Tội mua bán người dưới 16 tuổi; Tội hiếp dâm; Tội chiếm đoạt người dưới 16 tuổi; Tội mua bán, chiếm đoạt mô hoặc bộ phận cơ thể người.",
+      "d": "Tội mua bán người ; Tội mua bán người dưới 16 tuổi; Tội đánh tráo người dưới 1 tuổi; Tội dâm ô; Tội mua bán, chiếm đoạt mô hoặc bộ phận cơ thể người."
     },
     "answer": "b"
+  },
+  {
+    "id": 140,
+    "question": "Các tội xâm phạm nhân phẩm, danh dự của người khác là những hành vi nguy hiểm cho xã hội được quy định trong:",
+    "options": {
+      "a": "Pháp lệnh Hình sự.",
+      "b": "Bộ luật Hành chính.",
+      "c": "Bộ luật Hình sự.",
+      "d": "Bộ luật Dân sự."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 141,
+    "question": "Cơ quan nào chịu trách nhiệm chủ động, kịp thời ban hành các đạo luật, Nghị quyết về phòng, chống tội phạm xâm phạm nhân phẩm, danh dự của con người?",
+    "options": {
+      "a": "Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+      "b": "Chính phủ và Ủy ban nhân các cấp.",
+      "c": "Công an, Viện kiểm sát, Tòa án nhân dân.",
+      "d": "Quốc hội, Hội đồng nhân dân các cấp."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 142,
+    "question": "Cơ quan nào chịu trách nhiệm cụ thể hóa các Chỉ thị, Nghị quyết của Đảng thành những văn bản pháp quy hướng dẫn, tổ chức các lực lượng về phòng, chống tội phạm xâm phạm, danh dự của con người?",
+    "options": {
+      "a": "Viện kiểm sát, Tòa án nhân dân, Hội đồng nhân dân các cấp.",
+      "b": "Công an, Viện kiểm sát, Tòa án nhân dân.",
+      "c": "Chính phủ và Ủy ban nhân các cấp.",
+      "d": "Quốc hội, Hội đồng nhân dân các cấp."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 143,
+    "question": "Cơ quan nào chịu trách nhiệm: kiểm sát việc tuân theo pháp luật đối với các hoạt động điều tra, xét xử, thi hành án, giam giữ, giáo dục, cải tạo phạm nhân, giữ quyền công tố trong phòng, chống tội phạm xâm phạm nhân phẩm, danh dự của con người?",
+    "options": {
+      "a": "Viện kiểm sát nhân dân.",
+      "b": "Tòa án nhân dân.",
+      "c": "Công an nhân dân.",
+      "d": "Hội đồng nhân dân các cấp."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 144,
+    "question": "Cơ quan nào thông qua hoạt động xét xử các vụ án đảm bảo công minh, đúng pháp luật; phát hiện những nguyên nhân, điều kiện của tội phạm để Chính phủ, các ngành, các cấp kịp thời có biện pháp ngăn chặn, loại trừ tội xâm phạm nhân phẩm, danh dự của con người?",
+    "options": {
+      "a": "Tòa án nhân dân.",
+      "b": "Quân đội nhân dân.",
+      "c": "Công an nhân dân.",
+      "d": "Viện kiểm sát nhân dân."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 145,
+    "question": "Phòng ngừa tội phạm xâm phạm danh dự nhân phẩm của con người nhằm:",
+    "options": {
+      "a": "Hạn chế một phần nào đó về một số yếu tố có khả năng xảy ra một số loại tội phạm.",
+      "b": "Khắc phục những nguyên nhân, điều kiện của tình trạng phạm tội nhằm ngăn chặn, hạn chế và làm giảm từng bước, tiến tới loại trừ tội phạm ra khỏi đời sống xã hội.",
+      "c": "Đấu tranh loại bỏ tội phạm ngay từ đầu, bắt giữ, xét xử tạm giam đúng người đúng tội.",
+      "d": "Loại bỏ những điều kiện của tội phạm, đấu tranh triệt phá các ổ tội phạm, giam giữ cải tạo, tái hòa nhập cộng đồng."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 146,
+    "question": "Phòng ngừa chung trong phòng chống tội phạm xâm hại danh dự, nhân phẩm là tổng hợp các biện pháp về:",
+    "options": {
+      "a": "Chính trị, kinh tế, văn hoá, pháp luật, giáo dục.",
+      "b": "Tôn giáo, kinh tế, văn hoá, pháp luật.",
+      "c": "Chính trị, ngoại giao, văn hoá, giáo dục.",
+      "d": "Tôn giáo, kinh tế, văn hoá, giáo dục."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 147,
+    "question": "Cơ quan nào phối hợp, hỗ trợ chính quyền địa phương, các cơ quan chuyên môn soạn thảo, tham gia kế hoạch phòng ngừa tội phạm. Tuyên truyền cho hội viên thấy được tính chất, thủ đoạn hoạt động của tội phạm nhằm nâng cao ý thức cảnh giác?",
+    "options": {
+      "a": "Hội đồng nhân dân các cấp.",
+      "b": "Các cơ quan bảo vệ pháp luật: Công an, Viện kiểm sát, Toà án.",
+      "c": "Ủy ban nhân dân.",
+      "d": "Các tổ chức xã hội, các tổ chức quần chúng tự quản."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 148,
+    "question": "Trong công tác phòng chống tội phạm xâm phạm danh dự nhân phẩm: “Phát hiện, khắc phục, hạn chế và đi đến thủ tiêu các hiện tượng xã hội tiêu cực là những nguyên nhân, điều kiện của tình trạng phạm tội và phạm tội cụ thể.” Được xác định là:",
+    "options": {
+      "a": "Phương hướng.",
+      "b": "Biện pháp.",
+      "c": "Quan điểm.",
+      "d": "Mục đích."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 149,
+    "question": "Theo Bộ Luật hình 2015 (sửa đổi, bổ sung năm 2017). Nhóm các tội phạm tình dục gồm:",
+    "options": {
+      "a": "Tội hiếp dâm; Tội cưỡng dâm; Tội dâm ô với người dưới 16 tuổi; Tội giao cấu hoặc thực hiện hành vi quan hệ tình dục khác với người từ đủ 13 tuổi đến dưới 16 tuổi; Tội sử dụng người dưới 16 tuổi vào mục đích khiêu dâm.",
+      "b": "Tội hiếp dâm; Tội cưỡng dâm; Tội dâm ô với người dưới 16 tuổi; Tội giao cấu hoặc thực hiện hành vi quan hệ tình dục khác với người từ đủ 13 tuổi đến dưới 16 tuổi; tội mua bán người.",
+      "c": "Tội hiếp dâm; Tội cưỡng dâm; Tội dâm ô với người dưới 16 tuổi; Thực hiện hành vi quan hệ tình dục khác với người từ đủ 13 tuổi đến dưới 16 tuổi; Tội chống người thi hành công vụ.",
+      "d": "Tội hiếp dâm; Tội cưỡng dâm; Tội vu khống người khác; Tội giao cấu hoặc thực hiện hành vi quan hệ tình dục khác với người từ đủ 13 tuổi đến dưới 16 tuổi; Tội sử dụng người dưới 16 tuổi vào mục đích khiêu dâm."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 150,
+    "question": "Trong dấu hiệu pháp lý của các tội xâm phạm danh dự, nhân phẩm của con người. Chủ thể của tội phạm là:",
+    "options": {
+      "a": "Người có năng lực trách nhiệm hình sự.",
+      "b": "Người hoạt động trong các cơ quan hành chính sự nghiệp.",
+      "c": "Người không đủ năng lực trách nhiệm hình sự.",
+      "d": "Người có trình độ học vấn cao."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 151,
+    "question": "Chủ thể hoạt động phòng chống tội phạm xâm phạm danh dự, nhân phẩm là:",
+    "options": {
+      "a": "Chủ tịch nước, Chính phủ và uỷ ban nhân dân các cấp, Các tổ chức xã hội, các tổ chức quần chúng tự quản, Các cơ quan bảo vệ pháp luật, công dân.",
+      "b": "Quốc hội, hội đồng nhân dân các cấp, công an nhân dân, Các tổ chức xã hội, các tổ chức quần chúng tự quản, Các cơ quan bảo vệ pháp luật, công dân.",
+      "c": "Tòa án nhân dân, Chính phủ và uỷ ban nhân dân các cấp, Các tổ chức xã hội, các tổ chức quần chúng tự quản, Các cơ quan bảo vệ pháp luật, công dân.",
+      "d": "Quốc hội, Hội đồng nhân dân các cấp, Chính phủ và uỷ ban nhân dân các cấp, các tổ chức chính trị - xã hội, các tổ chức quần chúng tự quản, các cơ quan bảo vệ pháp luật, công dân."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 152,
+    "question": "Một trong những nguyên nhân, điều kiện của tình trạng phạm tội danh dự, nhân phẩm là:",
+    "options": {
+      "a": "Sự tác động bởi những mặt trái của nền kinh tế thị trường. Tác động trực tiếp, toàn diện của những hiện tượng xã hội tiêu cực do chế độ cũ để lại.",
+      "b": "Do nhận thức của một số thế hệ trẻ có lối sống lệch lạc, mà nặng nhất là lỗi phía nhà trường.",
+      "c": "Gia đình thiếu giáo dục cho con cái, hầu hết trẻ em đều ham chơi bỏ qua việc học, mối quan hệ bạn bè phức tạp.",
+      "d": "Gia đình khó khăn, thiếu công bằng với con cái, trẻ không lễ phép với ông bà cha mẹ."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 153,
+    "question": "Dấu hiệu pháp lý của các tội xâm phạm nhân phẩm, danh dự của con người là:",
+    "options": {
+      "a": "Khách thể, chủ thể, bị động, chủ động.",
+      "b": "Khách thể, chủ thể, chủ động, chủ quan.",
+      "c": "Khách thể, chủ thể, khách quan, chủ quan.",
+      "d": "Khách thể, chủ thể, chủ động, chủ quan"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 154,
+    "question": "Luật an ninh mạng hiện hành được Quốc hội thông qua vào thời gian nào?",
+    "options": {
+      "a": "Ngày 16/02/2018.",
+      "b": "Ngày 12/06/2018.",
+      "c": "Ngày 12/06/2019.",
+      "d": "Ngày 16/02/2019."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 155,
+    "question": "Hành vi nào sau đây không vi phạm pháp luật trên không gian mạng?",
+    "options": {
+      "a": "Đăng thông tin sai sự thật, phát tán dưới võ bọc tin tức.",
+      "b": "Gửi nhiều tin nhắn cùng lúc cho nhiều người khác nhau.",
+      "c": "Sử dụng lén tài khoản mạng xã hội của người khác.",
+      "d": "Đăng tin sai lệch về tình hình dịch bệnh Covid-19."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 156,
+    "question": "Các đối tượng chiếm đoạt tài sản mạng xã hội thông thường nhằm mục đích gì?",
+    "options": {
+      "a": "Gây ảnh hưởng trật tự an toàn xã hội.",
+      "b": "Thể hiện trình độ công nghệ thông tin.",
+      "c": "Làm rối loạn đến an ninh quốc gia.",
+      "d": "Lừa đảo, chiếm đoạt tài sản, giải quyết mâu thuẩn cá nhân."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 157,
+    "question": "Theo Nghị định 174/2026/NĐ-CP, mức phạt tiền đối với tổ chức lợi dụng mạng xã hội để cung cấp, chia sẻ thông tin giả mạo, sai sự thật, xuyên tạc, vu khống, xúc phạm uy tín của cơ quan, tổ chức, danh dự, nhân phẩm của cá nhân là:",
+    "options": {
+      "a": "Từ 10 đến 20 triệu đồng.",
+      "b": "Từ 20 đến 30 triệu đồng.",
+      "c": "Từ 30 đến 50 triệu đồng.",
+      "d": "Từ 50 đến 70 triệu đồng."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 158,
+    "question": "Phishing được hiểu phù hợp nhất là:",
+    "options": {
+      "a": "Hình thức lừa đảo giả mạo trang hoặc tổ chức uy tín để đánh cắp thông tin đăng nhập, tài khoản.",
+      "b": "Hình thức cho vay tín dụng đen qua mạng.",
+      "c": "Hình thức chiếm quyền giám sát camera bằng cách quét cổng mạng.",
+      "d": "Hình thức kinh doanh hàng hóa bị cấm trên mạng."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 159,
+    "question": "Hành vi vi phạm pháp luật trên không gian mạng là:",
+    "options": {
+      "a": "Chiếm đoạt tài khoản mạng xã hội.",
+      "b": "Sử dụng cùng lúc nhiều tài khoản mạng xã hội.",
+      "c": "Sử dụng tài khoản chưa xác thực.",
+      "d": "Đăng những thông tin cá nhân, đời tư lên mạng xã hội."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 160,
+    "question": "Luật An ninh mạng hiện hành số 116/2025/QH15 được Quốc hội thông qua vào thời gian nào?",
+    "options": {
+      "a": "Ngày 26/6/2025.",
+      "b": "Ngày 10/12/2025.",
+      "c": "Ngày 01/01/2026.",
+      "d": "Ngày 01/7/2026."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 161,
+    "question": "Tội phạm công nghệ cao là:",
+    "options": {
+      "a": "Tội phạm quốc tế hoạt động trong phạm vi lãnh thổ Việt Nam, sử dụng công nghệ cao để phạm tội.",
+      "b": "Tội phạm đặc biệt nguy hiểm hoạt động trong và ngoài phạm vi lãnh thổ Việt Nam, sử dụng công nghệ cao để phạm tội,",
+      "c": "Tội phạm được thực hiện bằng việc cố ý sử dụng tri thức, kỹ năng, công cụ, phương tiện công nghệ thông tin ở trình độ cao.",
+      "d": "Tội phạm xuyên quốc gia, sử dụng công nghệ cao để phạm tội."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 162,
+    "question": "Sự bảo vệ thông tin, hệ thống thông tin trên mạng tránh bị truy nhập, sử dụng, tiết lộ, gián đoạn, sửa đổi hoặc phá hoại trái phép nhằm đảm bảo tính nguyên vẹn, tính bảo mật và tính khả dụng của thông tin. Là khái niệm về:",
+    "options": {
+      "a": "An toàn thông tin mạng.",
+      "b": "An ninh mạng.",
+      "c": "An toàn thông tin.",
+      "d": "An ninh quốc gia."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 163,
+    "question": "Khi nhận được video hoặc cuộc gọi có hình ảnh, giọng nói giống người quen nhưng yêu cầu chuyển tiền khẩn cấp, cách xử lý phù hợp nhất là:",
+    "options": {
+      "a": "Chuyển một khoản nhỏ để kiểm tra.",
+      "b": "Chia sẻ ngay lên nhóm để hỏi ý kiến.",
+      "c": "Làm theo yêu cầu nếu hình ảnh và giọng nói giống thật.",
+      "d": "Dừng giao dịch, xác minh qua kênh liên lạc độc lập, lưu bằng chứng và báo cáo khi có dấu hiệu lừa đảo."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 164,
+    "question": "Spam là gì?",
+    "options": {
+      "a": "Nhắn tin cùng lúc cho nhiều người, gây cảm giác bức xúc cho người nhận tin nhắn.",
+      "b": "Gửi tin nhắn liên tục cho một người, gây phiền toái cho người nhận tin nhắn.",
+      "c": "Những thông điệp vô nghĩa và gây phiền toái cho người nhận, được gửi đến nhiều người dùng với cùng một nội dung.",
+      "d": "Gửi tin nhắn tự động trên nhiều kênh khác nhau."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 165,
+    "question": "Web gồm những trang không được đánh dấu, chỉ mục và không thể tìm kiếm được khi dùng các công cụ tìm kiếm thông thường được gọi là:",
+    "options": {
+      "a": "Dark web.",
+      "b": "Deep web.",
+      "c": "World Wide Web.",
+      "d": "Dark web và Deep web."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 166,
+    "question": "Không gian mạng là gì?",
+    "options": {
+      "a": "Lãnh thổ chưa thể xác định.",
+      "b": "Một bộ phận hợp thành lãnh thổ quốc gia.",
+      "c": "Nơi con người thực hiện các hành vi xã hội không bị giới hạn bởi không gian và thời gian.",
+      "d": "Một bộ phận tách rời chủ quyền quốc gia."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 167,
+    "question": "Biện pháp phòng, chống vi phạm pháp luật trên không gian mạng: “……….. về bảo vệ chủ quyền quốc gia, các lợi ích và sự nguy hại đến từ không gian mạng”. Chọn cụm từ thích hợp điền vào chỗ trống câu trên”.",
+    "options": {
+      "a": "Bồi dưỡng cán bộ chủ chốt.",
+      "b": "Công khai chiến lược.",
+      "c": "Hợp tác quốc tế.",
+      "d": "Giáo dục nâng cao nhận thức."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 168,
+    "question": "Trang web nào thường xuyên đăng tải các thông tin xấu, độc hại, chia rẽ đoàn kết giữa Đảng và Nhân dân?",
+    "options": {
+      "a": "Thông tấn xã Việt Nam.",
+      "b": "Đại đoàn kết.",
+      "c": "Dân Luận.",
+      "d": "Nhịp cầu tri thức."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 169,
+    "question": "Cơ quan nào của Quân đội nhân dân Việt Nam chuyên trách vấn đề an ninh mạng?",
+    "options": {
+      "a": "Tổng cục Tình báo Quốc phòng.",
+      "b": "Bộ Tư lệnh Tác chiến không gian mạng.",
+      "c": "Bộ Tổng Tham mưu.",
+      "d": "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 170,
+    "question": "Nguyên tắc của Việt Nam trong vấn đề hợp tác quốc tế về an toàn thông tin mạng là:",
+    "options": {
+      "a": "Không hợp tác vì có khả năng gây mất an toàn thông tin mạng.",
+      "b": "Hợp tác về mọi mặt, mọi hoạt động liên quan đến an toàn thông tin mạng.",
+      "c": "Hợp tác trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ quốc gia, không can thiệp vào công việc nội bộ của nhau, bình đẳng và các bên cùng có lợi.",
+      "d": "Hợp tác căn cứ mối quan hệ ngoại giao và luật pháp quốc tế."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 171,
+    "question": "Văn bản luật hiện hành điều chỉnh trực tiếp, tổng thể về an ninh mạng tại Việt Nam là:",
+    "options": {
+      "a": "Luật An ninh mạng số 116/2025/QH15.",
+      "b": "Luật An ninh quốc gia năm 2004.",
+      "c": "Luật An toàn thông tin mạng năm 2015.",
+      "d": "Luật Giao dịch điện tử năm 2023."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 172,
+    "question": "Trách nhiệm của sinh viên trên không gian mạng là:",
+    "options": {
+      "a": "Chia sẻ ngay thông tin có tiêu đề giật gân để cảnh báo bạn bè.",
+      "b": "Không đăng tải, chia sẻ hoặc bình luận thông tin chưa được kiểm chứng; không tham gia hội, nhóm có nội dung vi phạm pháp luật.",
+      "c": "Cho người quen mượn tài khoản ngân hàng nếu chỉ dùng trong thời gian ngắn.",
+      "d": "Cài ứng dụng từ đường link lạ nếu được người quen gửi."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 173,
+    "question": "Hoạt động nào sau đây thường thấy ở Dark web?",
+    "options": {
+      "a": "Kêu gọi biểu tình, đòi tự do ngôn luận.",
+      "b": "Quảng cáo, buôn bán hàng giả, bất động sản.",
+      "c": "Truyền, phát trực tiếp trò chơi bạo lực.",
+      "d": "Chợ đen, khủng bố, khiêu dâm, lừa đảo."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 174,
+    "question": "Các hành vi vi phạm pháp luật trên không gian mạng là:",
+    "options": {
+      "a": "Phát tán tin giả, spam; lừa đảo chiếm đoạt tài sản.",
+      "b": "Phát tán tin giả, spam; sử dụng nhiều tài khoản cùng một lúc.",
+      "c": "Phát tán tin giả, spam; gửi tin nhắn cho nhiều người cùng một lúc.",
+      "d": "Phát tán tin giả, spam; đăng thông tin cá nhân, đời tư."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 175,
+    "question": "Theo Điều 94 Nghị định 15/2020/NĐ-CP (sửa đổi, bổ sung), mức phạt tiền đối với tổ chức có hành vi gửi hoặc phát tán thư điện tử rác, tin nhắn rác, phần mềm độc hại là:",
+    "options": {
+      "a": "Từ 60 đến 80 triệu đồng.",
+      "b": "Từ 40 đến 50 triệu đồng.",
+      "c": "Từ 80 đến 100 triệu đồng.",
+      "d": "Từ 180 đến 200 triệu đồng."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 176,
+    "question": "Theo Khoản 1, Điều 7, Chương 1. Luật An ninh mạng năm 2025. Thông tin trên không gian mạng có một trong những nội dung tuyên truyền chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là:",
+    "options": {
+      "a": "Tuyên truyền xuyên tạc, kêu gọi biểu tình.",
+      "b": "Tuyên truyền xuyên tạc, chống phá cách mạng.",
+      "c": "Tuyên truyền xuyên tạc, lôi kéo, kích động.",
+      "d": "Tuyên truyền xuyên tạc, phỉ báng chính quyền nhân dân; chiến tranh tâm lý."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 177,
+    "question": "Theo Khoản 2, Điều 7, Chương 1. Luật An ninh mạng năm 2025. Thông tin trên không gian mạng có một trong những nội dung kích động gây bạo loạn, phá rối an ninh, gây rối trật tự công cộng là:",
+    "options": {
+      "a": "Kêu gọi, vận động, xúi giục, đe dọa, gây chia rẽ, tiến hành hoạt động vũ trang hoặc dùng bạo lực nhằm chống chính quyền nhân dân.",
+      "b": "Tuyên truyền xuyên tạc, phỉ báng chính quyền nhân dân.",
+      "c": "Chiến tranh tâm lý, kích động chiến tranh xâm lược, chia rẽ, gây thù hận giữa các dân tộc, tôn giáo và nhân dân các nước.",
+      "d": "Xúc phạm dân tộc, quốc kỳ, quốc huy, quốc ca, vĩ nhân, lãnh tụ, danh nhân, anh hùng dân tộc."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 178,
+    "question": "Luật An ninh mạng số 116/2025/QH15 gồm:",
+    "options": {
+      "a": "07 chương, 43 điều.",
+      "b": "08 chương, 45 điều.",
+      "c": "08 chương, 43 điều.",
+      "d": "09 chương, 45 điều."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 179,
+    "question": "Luật An ninh mạng năm 2025, Trong đó: Chương I. Những quy định chung:",
+    "options": {
+      "a": "Gồm 5 điều (từ Điều 1 đến Điều 5).",
+      "b": "Gồm 6 điều (từ Điều 1 đến Điều 6).",
+      "c": "Gồm 7 điều (từ Điều 1 đến Điều 7).",
+      "d": "Gồm 8 điều (từ Điều 1 đến Điều 8)."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 180,
+    "question": "Luật An ninh mạng năm 2025, Trong đó: Chương II. Bảo vệ an ninh mạng đối với hệ thống thông tin:",
+    "options": {
+      "a": "Gồm 5 điều (từ Điều 08 đến Điều 12).",
+      "b": "Gồm 6 điều (từ Điều 08 đến Điều 13).",
+      "c": "Gồm 7 điều (từ Điều 08 đến Điều 14).",
+      "d": "Gồm 8 điều (từ Điều 08 đến Điều 15)."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 181,
+    "question": "Luật An ninh mạng năm 2025, Trong đó: Chương III. Phòng ngừa, xử lý hành vi xâm phạm an ninh mang:",
+    "options": {
+      "a": "Gồm 10 điều (từ Điều 13 đến Điều 22).",
+      "b": "Gồm 11 điều (từ Điều 14 đến Điều 23).",
+      "c": "Gồm 12 điều (từ Điều 15 đến Điều 24).",
+      "d": "Gồm 13 điều (từ Điều 16 đến Điều 25)."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 182,
+    "question": "Luật An ninh mạng năm 2025, Trong đó: Chương IV. Hoạt động bảo vệ an ninh mang:",
+    "options": {
+      "a": "Gồm 5 điều (từ Điều 23 đến Điều 27).",
+      "b": "Gồm 4 điều (từ Điều 23 đến Điều 26).",
+      "c": "Gồm 6 điều (từ Điều 23 đến Điều 28).",
+      "d": "Gồm 7 điều (từ Điều 23 đến Điều 29)."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 183,
+    "question": "Một trong những biện pháp phòng, chống vi phạm pháp luật trên không gian mạng là:",
+    "options": {
+      "a": "Tuyên truyền, phổ biến, giáo dục các quy định của pháp luật về quản lý không gian mạng.",
+      "b": "Tăng cường hướng dẫn sử dụng các trang mạng xã hội.",
+      "c": "Hạn chế sử dụng các trang mạng xã hội, xây dựng trang mạng xã hội riêng ở Việt Nam.",
+      "d": "Tăng nặng các hình phạt khi có hành vi vi phạm pháp luật trên không gian mạng."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 184,
+    "question": "Biện pháp phòng, chống vi phạm pháp luật trên không gian mạng: “ …… nhận diện các âm mưu, thủ đoạn tấn công mạng và các hình thái phát sinh trên không gian mạng”. Chọn cụm từ thích hợp điền vào chỗ trống câu trên”.",
+    "options": {
+      "a": "Xây dựng ý thức.",
+      "b": "Bồi dưỡng kỹ năng.",
+      "c": "Quán triệt tư tưởng.",
+      "d": "Tuyên truyền, giáo dục."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 185,
+    "question": "Biện pháp phòng, chống vi phạm pháp luật trên không gian mạng: “….… phòng tránh, tự vệ và sử dụng biện pháp kỹ thuật để khắc phục hậu quả trong trường hợp bị tấn công trên không gian mạng”. Chọn cụm từ thích hợp điền vào chỗ trống câu trên”.",
+    "options": {
+      "a": "Nâng cao kỹ năng.",
+      "b": "Nâng cao năng lực.",
+      "c": "Nâng cao ý thức.",
+      "d": "Quán triệt kỹ năng."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 186,
+    "question": "Biện pháp phòng, chống vi phạm pháp luật trên không gian mạng: “….…, trách nhiệm của các cơ quan chuyên trách an ninh mạng, lãnh đạo, quản lý các địa phương, cơ quan, doanh nghiệp, nhà trường trong giáo dục nâng cao ý thức làm chủ và bảo vệ không gian mạng”. Chọn cụm từ thích hợp điền vào chỗ trống câu trên”.",
+    "options": {
+      "a": "Xây dựng ý thức.",
+      "b": "Phát huy tinh thần.",
+      "c": "Tuyên truyền, giáo dục.",
+      "d": "Phát huy vai trò."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 187,
+    "question": "“Trong Chỉ thị 01/CT-BTTTT ngày 15 tháng 01 năm 2025 về định hướng phát triển ngành Thông tin và Truyền thông năm 2025, an toàn, an ninh mạng được xác định là gì trong quá trình chuyển đổi số?",
+    "options": {
+      "a": "Trọng tâm của quá trình chuyển đổi số là trụ cột quan trọng tạo lập niềm tin số.",
+      "b": "Một nhiệm vụ riêng của ngành Thông tin và Truyền thông.",
+      "c": "Một giải pháp chỉ áp dụng với cơ quan nhà nước.",
+      "d": "Một yêu cầu kỹ thuật đối với doanh nghiệp viễn thông."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 188,
+    "question": "Hành động nào sau đây giúp bảo vệ tài khoản cá nhân trên không gian mạng hiệu quả hơn?",
+    "options": {
+      "a": "Sử dụng cùng một mật khẩu cho tất cả tài khoản.",
+      "b": "Cung cấp mã OTP cho người tự xưng là nhân viên ngân hàng.",
+      "c": "Sử dụng mật khẩu mạnh và bật xác thực nhiều lớp.",
+      "d": "Đăng công khai thông tin đăng nhập để dễ ghi nhớ."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 189,
+    "question": "Nội dung nào sau đây không phải là một vấn đề an ninh phi truyền thống?",
+    "options": {
+      "a": "An ninh nguồn nước.",
+      "b": "Tội phạm công nghệ cao.",
+      "c": "Khủng bố xuyên quốc gia.",
+      "d": "Chiến tranh xâm lược."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 190,
+    "question": "Thách thức an ninh phi truyền thống hàng đầu mà vùng Tây Nam Bộ của Việt Nam đang phải đối diện là:",
+    "options": {
+      "a": "Biến đổi khí hậu và nước biển dâng.",
+      "b": "An ninh mạng.",
+      "c": "An ninh năng lượng.",
+      "d": "An ninh kinh tế."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 191,
+    "question": "Theo định hướng được nêu trong các văn kiện Đại hội XIV của Đảng, nhận định nào phù hợp nhất về các vấn đề an ninh phi truyền thống?",
+    "options": {
+      "a": "Đã được kiểm soát cơ bản và không còn ảnh hưởng đáng kể đến phát triển đất nước.",
+      "b": "Ngày càng phức tạp, đòi hỏi nâng cao năng lực dự báo, phòng ngừa, ứng phó và hợp tác quốc tế.",
+      "c": "Chỉ tác động đến lĩnh vực quốc phòng, an ninh và không liên quan đến phát triển kinh tế - xã hội.",
+      "d": "Chỉ xuất hiện trong phạm vi từng địa phương và có thể xử lý bằng biện pháp hành chính."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 192,
+    "question": "Quốc gia nào sau đây không là thành viên của Ủy hội sông MêKông (MRC)?",
+    "options": {
+      "a": "Việt Nam",
+      "b": "Thái Lan",
+      "c": "Lào",
+      "d": "Ấn Độ"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 193,
+    "question": "Đại dịch Covid-19 là một vấn đề an ninh phi truyền thống ở quy mô nào?",
+    "options": {
+      "a": "Quy mô khu vực.",
+      "b": "Quy mô châu lục.",
+      "c": "Quy mô toàn cầu.",
+      "d": "Quy mô rộng khắp."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 194,
+    "question": "Hãy chọn cụm từ đúng tương ứng vị trí (1) và (2) để làm rõ khái nhiệm sau: “Nội dung của an ninh truyền thống hay an ninh quốc gia chính là …(1),…(2), an ninh xã hội.”",
+    "options": {
+      "a": "An ninh quốc gia (1); sức mạnh vũ trang (2)",
+      "b": "Tiềm lực vũ trang (1); an ninh quốc phòng (2)",
+      "c": "An ninh chính trị (1); an ninh quân sự (2)",
+      "d": "An ninh quốc phòng (1); thế trận quốc phòng (2)"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 195,
+    "question": "Một trong những giải pháp phòng ngừa, ứng phó với các mối đe dọa từ an ninh phi truyền thống ở Việt Nam hiện nay là:",
+    "options": {
+      "a": "Phối hợp chặt chẽ chống lực lượng gián điệp từ bên ngoài vào và lực lượng phản động bên trong.",
+      "b": "Chủ động, tích cực phòng ngừa, ứng phó với các mối đe dọa an ninh phi truyền thống.",
+      "c": "Tổ chức kiểm soát chặt chẽ biên giới quốc gia.",
+      "d": "Tổ chức lực lượng quần chúng rộng khắp xây dựng nền quốc phòng toàn dân, an ninh nhân dân."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 196,
+    "question": "Một trong những thách thức và đe dọa từ vấn đề an ninh phi truyền thống là:",
+    "options": {
+      "a": "Cản trở quá trình phát triển nền văn hóa hóa tiên tiến đậm đà bản sắc dân tộc.",
+      "b": "Làm suy giảm tiềm lực khoa học công nghệ của đất nước.",
+      "c": "Làm suy giảm sức mạnh quốc phòng của đất nước.",
+      "d": "Làm suy giảm khả năng sẵn sàng chiến đấu của lực lượng vũ trang."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 197,
+    "question": "Điền cụm từ phù hợp vào chỗ trống: “Nâng cao nhận thức về các mối đe dọa an ninh phi truyền thống đối với an ninh con người, an ninh cộng đồng, …… để phòng ngừa, ứng phó đối với các mối đe dọa an ninh phi truyền thống.”",
+    "options": {
+      "a": "“an ninh quốc gia và an ninh nhân loại”.",
+      "b": "“hai nhiệm vụ chiến lược xây dựng và bảo vệ Tổ quốc”.",
+      "c": "“sức mạnh của lực lượng vũ trang”.",
+      "d": "“sự nghiệp công nghiệp hóa, hiện đại hóa đất nước”."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 198,
+    "question": "Hoàn thiện câu sau: “…… trực thuộc Bộ Công an Việt Nam là cơ quan đầu ngành về công tác bảo đảm an ninh và an toàn mạng và các biện pháp phòng ngừa, phát hiện, điều tra xử lý tội phạm sử dụng công nghệ cao.”",
+    "options": {
+      "a": "Tổng cục Cảnh sát.",
+      "b": "Tổng cục An ninh.",
+      "c": "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao.",
+      "d": "Cục An ninh thông tin và phòng, chống tội phạm sử dụng công nghệ cao."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 199,
+    "question": "Giải pháp phòng ngừa, ứng phó đối với các mối đe dọa an ninh phi truyền thống là: “……và tăng cường hợp tác quốc tế về phòng ngừa, kiểm soát và ứng phó với các mối đe dọa an ninh phi truyền thống”. Hãy chọn cụm từ còn thiếu?",
+    "options": {
+      "a": "Mở rộng.",
+      "b": "Thống nhất.",
+      "c": "Phát triển.",
+      "d": "Đẩy mạnh."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 200,
+    "question": "Một trong những giải pháp phòng ngừa, ứng phó đối với các mối đe dọa an ninh phi truyền thống là: “Huy động nguồn lực ……… bằng nhiều kênh khác nhau để đầu tư cho hoạt động phòng ngừa, kiểm soát, ứng phó các mối đe dọa an ninh phi truyền thống”. Hãy chọn cụm từ còn thiếu?",
+    "options": {
+      "a": "“ngân sách”",
+      "b": "“tài chính”",
+      "c": "“tại chỗ”",
+      "d": "“bên trong”"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 201,
+    "question": "Đơn vị có chức năng tham mưu, giúp Bộ trưởng Bộ Tài Nguyên và Môi trường quản lý nhà nước về biến đổi khí hậu và bảo vệ tầng ozon theo quy định của pháp luật là:",
+    "options": {
+      "a": "Cục Biến đổi khí hậu.",
+      "b": "Cục Khí tượng Thủy văn và Biến đổi Khí hậu.",
+      "c": "Tổng cục Biển và Hải đảo.",
+      "d": "Cục An ninh thông tin và phòng, chống tội phạm sử dụng công nghệ cao."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 202,
+    "question": "Điền từ còn thiếu vào câu sau: “Phát huy sức mạnh tổng hợp của ……… và toàn xã hội trong quản trị và kiểm soát các mối đe dọa an ninh phi truyền thống”.",
+    "options": {
+      "a": "“các bộ, ban, ngành”.",
+      "b": "“các bộ, ban, ngành, đoàn thể”.",
+      "c": "“toàn dân tộc”.",
+      "d": "“hệ thống chính trị”."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 203,
+    "question": "Nội dung nào không phải là một vấn đề an ninh phi truyền thống?",
+    "options": {
+      "a": "Tội phạm công nghệ cao.",
+      "b": "Đe dọa sử dụng vũ lực trong quan hệ quốc tế.",
+      "c": "An ninh năng lượng.",
+      "d": "Ô nhiễm môi trường và biến đổi khí hậu."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 204,
+    "question": "Một trong những thách thức và đe dọa từ vấn đề an ninh phi truyền thống là:",
+    "options": {
+      "a": "Nguy cơ từ khủng hoảng kinh tế - xã hội.",
+      "b": "Làm suy giảm tiềm lực chính trị tinh thần của đất nước.",
+      "c": "Nguy cơ suy thoái chính trị, đạo đức, lối sống.",
+      "d": "Hình thành nguy cơ xung đột và chiến tranh."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 205,
+    "question": "Nội dung nào sau đây không phải là một vấn đề an ninh phi truyền thống?",
+    "options": {
+      "a": "Chiến tranh thế giới lần thứ 2.",
+      "b": "Tội phạm xuyên quốc gia.",
+      "c": "An ninh năng lượng.",
+      "d": "An ninh lương thực."
+    },
+    "answer": "a"
+  },
+  {
+    "id": 206,
+    "question": "Nội dung nào sau đây là một vấn đề an ninh phi truyền thống?",
+    "options": {
+      "a": "Cuộc kháng chiến chống thực dân Pháp.",
+      "b": "Tội phạm công nghệ cao.",
+      "c": "Cuộc kháng chiến chống đế quốc Mỹ.",
+      "d": "Chiến tranh biên giới Tây Bắc 1979."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 207,
+    "question": "An ninh truyền thống được hiểu như thế nào?",
+    "options": {
+      "a": "Là an ninh do những yếu tố phi chính trị, phi quân sự gây ra.",
+      "b": "Là an ninh có ảnh hưởng đến mọi mặt của một quốc gia dân tộc.",
+      "c": "Là bảo vệ an ninh quốc gia đất nước trước các mối đe dọa từ bên ngoài bằng tấn công quân sự.",
+      "d": "Là an ninh do các thế lực thù địch trong và ngoài nước tạo ra."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 208,
+    "question": "An ninh phi truyền thống được hiểu như thế nào?",
+    "options": {
+      "a": "Là an ninh có ảnh hưởng đến mọi mặt của một quốc gia dân tộc.",
+      "b": "Là an ninh gây nên sự khủng hoảng toàn diện của đời sống xã hội.",
+      "c": "Là an ninh do các thế lực thù địch trong và ngoài nước tạo ra.",
+      "d": "Là an ninh do những yếu tố phi chính trị, phi quân sự gây ra."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 209,
+    "question": "Thuật ngữ “an ninh phi truyền thống” bắt đầu xuất hiện vào thời kỳ nào?",
+    "options": {
+      "a": "Những năm 50 của thế kỷ XX.",
+      "b": "Những năm 80 của thế kỷ XX.",
+      "c": "Sau năm 1975.",
+      "d": "Sau Chiến tranh thế giới thứ hai."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 210,
+    "question": "Giải quyết các nội dung của an ninh phi truyền thống là:",
+    "options": {
+      "a": "Các nước công nghiệp phát triển.",
+      "b": "Là nhiệm vụ mang tính toàn cầu.",
+      "c": "Của lực lượng gìn giữ hòa bình thế giới.",
+      "d": "Các nước lạc hậu kinh tế kém phát triển."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 211,
+    "question": "Văn kiện Đại hội XIII của Đảng khẳng định thực hiện các cam kết quốc tế, góp phần cùng cộng đồng quốc tế?",
+    "options": {
+      "a": "Tăng cường đối phó với biến đổi khí hậu, bảo vệ hệ sinh thái toàn cầu.",
+      "b": "Thích nghi với biến đổi khí hậu, bảo vệ hệ sinh thái toàn cầu.",
+      "c": "Chống lại biến đổi khí hậu, bảo vệ hệ sinh thái toàn cầu.",
+      "d": "Thích ứng với biến đổi khí hậu, bảo vệ hệ sinh thái toàn cầu."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 212,
+    "question": "Nghị quyết Đại hội lần thứ XIII của Đảng nhấn mạnh: “Quản lý chặt chẽ, sử dụng hợp lý, hiệu quả đất đai, tài nguyên; bảo vệ, cải thiện môi trường; chủ động, tích cực triển khai các …… với biến đổi khí hậu, thiên tai khắc nghiệt”. Hãy chọn cụm từ còn thiếu?",
+    "options": {
+      "a": "“giải pháp đối phó”.",
+      "b": "“giải pháp khắc phục, giảm nhẹ”.",
+      "c": "“giải pháp thích ứng”.",
+      "d": "“giải pháp ứng phó”."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 213,
+    "question": "Một trong những nội dung của an ninh phi truyền thống là:",
+    "options": {
+      "a": "Phân hóa giàu nghèo ngày càng gia tăng.",
+      "b": "An ninh y tế, an ninh môi trường, an ninh dữ liệu.",
+      "c": "Xuất hiện các loại tệ nạn và tội phạm xã hội.",
+      "d": "Gây ra những cuộc khủng hoảng kinh tế - xã hội."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 214,
+    "question": "Quá trình toàn cầu hóa quốc tế ảnh hưởng đến an ninh phi truyền thống như thế nào?",
+    "options": {
+      "a": "An ninh phi truyền thống ngày càng thu hẹp hơn.",
+      "b": "An ninh phi truyền thống ngày càng kiểm soát tốt hơn.",
+      "c": "An ninh phi truyền thống ngày càng phức tạp hơn.",
+      "d": "An ninh phi truyền thống ngày càng lan rộng và đậm nét hơn."
+    },
+    "answer": "d"
+  },
+  {
+    "id": 215,
+    "question": "Sự phát triển của công nghệ thông tin đóng vai trò gì trong an ninh phi truyền thống?",
+    "options": {
+      "a": "Chỉ làm tăng cường an ninh kinh tế.",
+      "b": "Làm tăng nguy cơ đe dọa an ninh mạng.",
+      "c": "Làm giảm xung đột chính trị.",
+      "d": "Chỉ ảnh hưởng đến an ninh văn hóa."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 216,
+    "question": "Quan niệm an ninh phi truyền thống bắt đầu được hình thành từ thời kỳ nào?",
+    "options": {
+      "a": "Thời kỳ tiền chiến tranh.",
+      "b": "Cuộc cách mạng công nghiệp.",
+      "c": "Sau chiến tranh lạnh.",
+      "d": "Đầu thế kỷ 20."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 217,
+    "question": "Yếu tố nào đóng vai trò chủ yếu trong mở rộng an ninh phi truyền thống?",
+    "options": {
+      "a": "Sự phát triển của văn hóa.",
+      "b": "Sự gia tăng mâu thuẫn địa chính trị.",
+      "c": "Quá trình toàn cầu hóa.",
+      "d": "Sự phát triển của nghệ thuật."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 218,
+    "question": "Mối quan hệ giữa an ninh phi truyền thống và an ninh truyền thống là gì?",
+    "options": {
+      "a": "Hoàn toàn độc lập.",
+      "b": "Tương đồng và cùng tạo thành an ninh quốc gia.",
+      "c": "An ninh truyền thống phụ thuộc vào an ninh phi truyền thống.",
+      "d": "An ninh truyền thống là mở rộng của an ninh phi truyền thống."
+    },
+    "answer": "b"
+  },
+  {
+    "id": 219,
+    "question": "Một trong những đặc điểm nổi bật của an ninh phi truyền thống là gì?",
+    "options": {
+      "a": "Ít thay đổi theo thời gian.",
+      "b": "Ảnh hưởng hạn chế trong nội bộ quốc gia.",
+      "c": "Tác động đa chiều và liên quốc gia.",
+      "d": "Chủ yếu dựa vào sức mạnh quân sự."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 220,
+    "question": "Điều gì là cần thiết để đối phó với các nguy cơ đe dọa an ninh phi truyền thống?",
+    "options": {
+      "a": "Gia tăng chi tiêu quân sự.",
+      "b": "Phát triển kinh tế độc lập.",
+      "c": "Hợp tác quốc tế, chủ động phòng ngừa.",
+      "d": "Cắt giảm các quan hệ ngoại giao."
+    },
+    "answer": "c"
   }
 ]
